@@ -21,3 +21,8 @@ Thanks for considering contributing! Here's how you can help:
 📄 License
 This project is licensed under the MIT License.
 See the LICENSE file for more details.
+
+🔗 Connect With Me
+💻 GitHub: Kakashihatake00
+
+🧠 Feel free to star ⭐ this repository if you found it helpful!
